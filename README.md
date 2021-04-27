@@ -1,21 +1,21 @@
 <<<<<<< HEAD
 # vue-app01
 
-## 这是一个音乐app
+## 这是一个购物网站app
 =======
 # vue2-project
 
-## Project setup
+## Project setup 项目准备
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production 项目打包
 ```
 npm run build
 ```
